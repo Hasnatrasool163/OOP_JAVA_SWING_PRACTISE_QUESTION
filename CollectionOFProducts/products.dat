@@ -1,0 +1,16 @@
+[
+name=bread	price=120.0	quantity=5
+manufacturingDate=2024-05-25	ExpiryDate=2024-06-05
+, 
+name=juice	price=160.0	quantity=3
+manufacturingDate=2024-05-25	ExpiryDate=2024-07-31
+, 
+name=lamp	price=1200.0	quantity=1
+storageCapacity=50	brand=Henta's	model=v5
+, 
+name=jeans	price=1800.0	quantity=6
+size=Large	color=Blue	material=Cotton
+, 
+name=iron	price=4500.0	quantity=2
+storageCapacity=100	brand=Dawlance	model=V1
+]
